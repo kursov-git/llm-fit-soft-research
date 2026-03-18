@@ -18,6 +18,8 @@
 - [Продуктовые гипотезы](./docs/product-hypotheses.md)
 - [Практический roadmap исследования](./docs/roadmap.md)
 - [MVP definition](./docs/mvp-definition.md)
+- [Софт для бенчмарка железа и LLM](./docs/benchmark-software.md)
+- [Raspberry Pi 5 8GB: топ-10 локальных моделей](./docs/raspberry-pi-5-8gb-top-10-models.md)
 
 ## Краткий вывод
 
