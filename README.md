@@ -20,6 +20,7 @@
 - [MVP definition](./docs/mvp-definition.md)
 - [Софт для бенчмарка железа и LLM](./docs/benchmark-software.md)
 - [Raspberry Pi 5 8GB: топ-10 локальных моделей](./docs/raspberry-pi-5-8gb-top-10-models.md)
+- [Initial analog research snapshot](./docs/analog-research-initial-snapshot.md)
 
 ## Краткий вывод
 
